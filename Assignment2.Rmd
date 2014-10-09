@@ -1,0 +1,36 @@
+---
+title: "Second Assignment - Proposal"
+author: "Pietro Romozzi and Federico Colombo"
+date: "9 October 2014"
+output:
+  html_document:
+    fig_caption: yes
+    number_sections: no
+  pdf_document:
+    fig_caption: yes
+    number_sections: no
+---
+
+```{r include=FALSE}
+# Set working directory.
+setwd("/Users/Peter/Desktop/Hertie/1st Semester//Collaborative Social Science Data Analysis//SecondAssignment")
+
+# Load packages and create BibTeX file
+RPackages <- c("ggplot2", "repmis")
+
+# Load PackagesUsed and create .bib BibTeX file
+# Note must have repmis package installed.
+repmis::LoadandCite(RPackages, file = "Packages.bib", install = FALSE)
+
+```
+
+> Abstract:
+
+# Introduction:
+
+Topic
+Relevance
+Why is it interesting?
+
+
+## References
