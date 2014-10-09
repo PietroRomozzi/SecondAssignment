@@ -9,6 +9,9 @@ output:
   pdf_document:
     fig_caption: yes
     number_sections: no
+bibliography:
+  - Reference2.bib
+  - Packages.bib
 ---
 
 ```{r include=FALSE}
@@ -24,7 +27,7 @@ repmis::LoadandCite(RPackages, file = "Packages.bib", install = FALSE)
 
 ```
 
-> Abstract:
+> Abstract: 
 
 # Introduction:
 
@@ -34,3 +37,4 @@ Why is it interesting?
 
 
 ## References
+
