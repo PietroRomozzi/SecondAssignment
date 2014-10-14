@@ -1,6 +1,6 @@
 ---
 title: "Second Assignment - Proposal"
-author: "Pietro Romozzi and Federico Colombo"
+author: "Pietro Romozzi and Federico Colombo-Ercole"
 date: "9 October 2014"
 output:
   html_document:
