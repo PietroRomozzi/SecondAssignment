@@ -5,4 +5,4 @@ Repository created to carry out the second assignment.
 Authors: Pietro Romozzi & Federico Colombo
 Year: 2014
 
-suicide rates = a + b1*income + b2*social_expenditure + err 
+Mental disorder = a + b1*average temperature + b2*# solar radiation + urban/rural population + humidity + sea/ no sea + err 
