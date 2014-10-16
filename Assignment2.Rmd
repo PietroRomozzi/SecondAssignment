@@ -3,20 +3,20 @@ title: "Second Assignment - Proposal"
 author: "Pietro Romozzi and Federico Colombo-Ercole"
 date: "9 October 2014"
 output:
-  html_document:
-    fig_caption: yes
-    number_sections: no
   pdf_document:
     fig_caption: yes
     number_sections: no
+  html_document:
+    fig_caption: yes
+    number_sections: no
 bibliography:
-  - Reference2.bib
-  - Packages.bib
+- Reference2.bib
+- Packages.bib
 ---
 
 ```{r include=FALSE}
 # Set working directory.
-setwd("/Users/Peter/Desktop/Hertie/1st Semester//Collaborative Social Science Data Analysis//SecondAssignment")
+setwd("/Users/feffo-delpiero/Desktop/SecondAssignment")
 
 # Load packages and create BibTeX file
 RPackages <- c("ggplot2", "repmis")
@@ -27,7 +27,7 @@ repmis::LoadandCite(RPackages, file = "Packages.bib", install = FALSE)
 
 ```
 
-> Abstract: 
+> Abstract:
 
 # Introduction:
 
@@ -36,5 +36,5 @@ Relevance
 Why is it interesting?
 
 
-## References
+## References 
 
