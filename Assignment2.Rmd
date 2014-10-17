@@ -31,11 +31,23 @@ repmis::LoadandCite(RPackages, file = "Packages.bib", install = FALSE)
 
 # Introduction:
 
-Topic (federico)
-Relevance (pietro)
-Research questions (federico)
-Why are they interesting? (io)
-metodologia (federico)
+### Topic (federico)
+
+### Relevance
+
+According to the latest WHO report concerning suicide prevention [see the latest report by @PreventingSuicideWHO], "Globally, among young adults 15−29 years of age suicide accounts for 8.5% of all deaths and is ranked as the second leading cause of death (after traffic accidents). Among adults aged 30−49 years it accounts for 4.1% of all deaths and is ranked the fifth leading cause of death". This statement displays clearly the relevance of this issue, which is also greater considering that these estimation are often underrated because of the difficulties in recognizing sucide as a cause of death - will of committing suicide could be not recognized, families could prefer not to speak about it, and so on [see the note by @NotaIstat2012].
+The above mentioned paper, moreover, is considered by several OECD countries as a strong stimulus to move further in suicide prevention. Among these countries, we are going to focus on Italy, particularly at regional level. 
+Indeed, our convintion is that a focus on smaller than countries environments, does help in assessing how factors affecting suicides impact differently within the same country, thus highlighting a possible variance among regions which is overlooked by country-level aggregate data.
+In addition to this "micro-level" focus, we also intend to stress some environmental and climatic characteristics which could contribute to create "suicide-genic" environment.
+Recognizing these characteristics will be helpful for setting efficient prevention strategies, and, especially considering the regional focus, it will be more easy for policy makers to design policies tailored to the specific regional reality.
+Especially the climatic characteristic mentioned, according to recent literature, has turned to be correlated with mental health and, trough it, with suicide. These are often not considered, as some auhors like @Berry2009 underline, therefore we believe that including them in the present paper could deliver interesting results and perhaps stimulate further research in this branch.
+
+### Research questions (federico)
+
+### Why are they interesting? (io)
+
+### metodologia (federico)
 
 n.b.: include basic literature review
-## References
+
+## References:
