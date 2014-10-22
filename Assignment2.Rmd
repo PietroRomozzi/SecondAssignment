@@ -3,10 +3,10 @@ title: "Second Assignment - Proposal"
 author: "Pietro Romozzi and Federico Colombo"
 date: "9 October 2014"
 output:
-  pdf_document:
+  html_document:
     fig_caption: yes
     number_sections: no
-  html_document:
+  pdf_document:
     fig_caption: yes
     number_sections: no
 bibliography:
@@ -36,17 +36,28 @@ repmis::LoadandCite(RPackages, file = "Packages.bib", install = FALSE)
 ### Relevance
 
 According to the latest WHO report concerning suicide prevention [see the latest report by @PreventingSuicideWHO], "Globally, among young adults 15−29 years of age suicide accounts for 8.5% of all deaths and is ranked as the second leading cause of death (after traffic accidents). Among adults aged 30−49 years it accounts for 4.1% of all deaths and is ranked the fifth leading cause of death". This statement displays clearly the relevance of this issue, which is also greater considering that these estimation are often underrated because of the difficulties in recognizing sucide as a cause of death - will of committing suicide could be not recognized, families could prefer not to speak about it, and so on [see the note by @NotaIstat2012].
+
 The above mentioned paper, moreover, is considered by several OECD countries as a strong stimulus to move further in suicide prevention. Among these countries, we are going to focus on Italy, particularly at regional level. 
+
 Indeed, our convintion is that a focus on smaller than countries environments, does help in assessing how factors affecting suicides impact differently within the same country, thus highlighting a possible variance among regions which is overlooked by country-level aggregate data.
+
 In addition to this "micro-level" focus, we also intend to stress some environmental and climatic characteristics which could contribute to create "suicide-genic" environment.
+
 Recognizing these characteristics will be helpful for setting efficient prevention strategies, and, especially considering the regional focus, it will be more easy for policy makers to design policies tailored to the specific regional reality.
+
 Especially the climatic characteristic mentioned, according to recent literature, has turned to be correlated with mental health and, trough it, with suicide. These are often not considered, as some auhors like @Berry2009 underline, therefore we believe that including them in the present paper could deliver interesting results and perhaps stimulate further research in this branch.
 
 ### Research questions (federico)
 
-### Why are they interesting? (io)
+### Why are they interesting?
 
-### metodologia (federico)
+One obvious reason why this work is potentially interesting is that mental disorders and suicide are nowadays often discussed both among insitution in health's field and media.
+
+Moreover, our focus on environmental and climati characteristics grounds on a recent body of studies which recognizes the link between these dimentions and mental disorders. These variables are going to be included in addition to more traditional variables (i.e. related to economic dimensions) to develop a wider model of analysys of mental disorders. As a consequence, the broad spectrum of this study makes the present work interesting and innovative.
+
+Another valuable point is the regional focus which allows to underscore, in the end, contingent specific characteristics of the territory rather than the whole country. Therefore, bringing the analysis at a smaller level, makes easier for policy makers to deal with these issues at a local and so more manageable level, as stated before.
+
+### Methodology (federico)
 
 n.b.: include basic literature review
 
