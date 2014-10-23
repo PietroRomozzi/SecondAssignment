@@ -132,6 +132,14 @@ population living in urban areas, as defined by the country. Also in this case, 
 Regarding variable *GDP per capita*, we will use Eurostat's database, where it is possible to find data regarding GDP and 
 GDP per capita for every single region in the European Union. Database is easy to access and to use.
 
+Variable *average temperature* simply corresponds to the value of the annual average temperature in a certain region, while
+variable *precipitations* measures the annual quantitiy of rain in millimiters. Data are provided by ISTAT 
+(based on Unità per la climatologia e la meteorologia applicate all'agricoltura).
+
+Finally, variable *Gini Coefficient*, the most common measure of income inequality, varies between 0 and 1 and expresses
+inequality among values of the frequency distribution of income for our target regions. Eurostat provides this typology of data
+for all European regions.
+
 All the data gathered will be processed using "R" [see @CiteR]. We use as well some packages developed for R, namely "ggplot2" [see @R-ggplot2] and "repmis" [see @R-repmis].
 
 
