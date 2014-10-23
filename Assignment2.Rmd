@@ -30,7 +30,9 @@ repmis::LoadandCite(RPackages, file = "RPackages.bib", install = FALSE)
 
 > Abstract:
 
-With the present work, the authors intend to create a descriptive model of economical, social and environmental characteristics of a territory, aiming to assess the impact of these factors on suicide rates. The model will be tested on Italian Regions, however if it turns to be robust, it could be tested also on other realities.
+With the present work, the authors intend to create a descriptive model of economical, social and environmental characteristics 
+of a territory, aiming to assess the impact of these factors on suicide rates. The model will be tested on Italian Regions, 
+however if it turns to be robust, it could be tested also on other realities.
 
 
 
@@ -94,7 +96,7 @@ including them in the present paper could deliver interesting results and perhap
 
 #### Research questions:
 
-We want to test if the following hypothesis holds true: 
+We want to test if the following hypothesis hold true: 
 - Suicide rate in a certain Italian region increases when the average temperature is low.
 - Suicide rate increases when the number of solar radiation is low.
 - Suicide rate increases when the urbanization rate is high.
@@ -119,10 +121,13 @@ Suicide rate = a + b1 x average temperature + b2 x solar radiation + b3 x urban 
 Variable *suicide rate* is defined by the WHO as the standardized number of deaths by suicide every 100.000 people occurred in a certain country. 
 Since the focus of this paper is on intra-regional differences in Italy, data from the Italian National Institute of Statistics (ISTAT) will be used. Data regarding our five specific case studies are provided. 
 
-Variable *solar radiation* measures the level of solar irradiance in megajoul (MJ) per square meter. The Italian Air Force offers a metereological service, which is responsible for the measurement of solar irradiance on the Italian territory. They also provide documentation gathered from various metereological units, unfortunately not for every single Italian region.
+Variable *solar radiation* measures the level of solar irradiance in megajoul (MJ) per square meter. The Italian Air Force offers 
+a metereological service, which is responsible for the measurement of solar irradiance on the Italian territory. They also provide 
+documentation gathered from various metereological units, unfortunately not for every single Italian region.
 Because of that, if regional measurement appears to be too complex for the scope of this work, we might decide not to use this variable or not to consider some regions.
 
-Variable *urban population* measures of the degree of urbanization of a population. It describes the percentage of the total population living in urban areas, as defined by the country. Also in this case, data provided by Istat will be used.
+Variable *urban population* measures of the degree of urbanization of a population. It describes the percentage of the total 
+population living in urban areas, as defined by the country. Also in this case, data provided by Istat will be used.
 
 Regarding variable *GDP per capita*, we will use Eurostat's database, where it is possible to find data regarding GDP and 
 GDP per capita for every single region in the European Union. Database is easy to access and to use.
@@ -130,7 +135,7 @@ GDP per capita for every single region in the European Union. Database is easy t
 All the data gathered will be processed using "R" [see @CiteR]. We use as well some packages developed for R, namely "ggplot2" [see @R-ggplot2] and "repmis" [see @R-repmis].
 
 
-#### Cases studied:
+#### Case studies:
 
 We take into consideration five areas: North-West, North-East, Centre, South and Islands in Italy. 
 The advantage of adopting this categorization is that instead of twenty different case studies (there are twenty different regions in Italy), among which some could be really similar because they are located in the same macro area, we will work with only five. 
