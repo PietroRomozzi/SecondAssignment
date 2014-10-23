@@ -102,8 +102,8 @@ Case studies:
 
 We take into consideration five areas: North-West, North-East, Centre, South and Islands in Italy. The advantage of adopting 
 this categorization is that instead of twenty different case studies (there are twenty different regions in Italy) we will work 
-with only five. Also the Italian Statistical Agency adopts this categorization in various cases and some of the databases we are 
-going to use already include data divided according to this idea of clustering homogeneous Italian regions together. 
+with only five. Also the Italian Statistical Agency and Eurostat use this categorization for simplicity and some of the databases 
+we are going to use already include data divided according to this idea of clustering homogeneous Italian regions together. 
 
 
 ### Why are they interesting?
