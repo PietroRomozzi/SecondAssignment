@@ -93,10 +93,23 @@ suicidal behaviours (an extreme consequence of mental disorders) and various fac
 
 The model we want to estimate will therefore be the following: 
 
-Suicide rate = a + b1 * average temperature + b2 * solar radiation + b3* urbanization rate + b4* precipitations + 
+Suicide rate = a + b1 * average temperature + b2 * solar radiation + b3* urban population + b4* precipitations + 
 b5* gini coefficient + b6 * GDP per capita + e
 
 Where gini coefficient and GDP per capita are our control variables. 
+
+Variable suicide rate is defined by the WHO as the standardized number of deaths by suicide every 100.000 people occurred in a 
+certain country. 
+Since the focus of this paper is on intra-regional differences in Italy, data from the Italian National Institute of Statistics
+(ISTAT) will be used. Data regarding our five specific case studies are provided. 
+
+Variable solar radiation:::::::::
+
+Variable Urban population measures of the degree of urbanization of a population. It describes the percentage of the total 
+population living in urban areas, as defined by the country. Also in this case, data provided by Istat will be used.
+
+Regarding variable GDP per capita, we will use Eurostat's database, where it is possible to find data regarding GDP and 
+GDP per capita for every single region in the European Union. Database is easy to access and to use.
 
 Case studies: 
 
