@@ -94,7 +94,7 @@ suicidal behaviours (an extreme consequence of mental disorders) and various fac
 The model we want to estimate will therefore be the following: 
 
 Suicide rate = a + b1 * average temperature + b2 * solar radiation + b3* urbanization rate + b4* precipitations + 
-+ b5* gini coefficient + b6 * GDP per capita + e
+b5* gini coefficient + b6 * GDP per capita + e
 
 Where gini coefficient and GDP per capita are our control variables. 
 
