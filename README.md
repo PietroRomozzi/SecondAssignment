@@ -9,7 +9,6 @@ Suicide rate per region = a + average temperature + b2 number solar radiation + 
 
 Regions: Nordovest, nordest, centro, sud, isole
 
-Pietro: average temperature, precipitations, gini coefficient, suicide rate. Bibliography, 
+Pietro: average temperature, precipitations, gini coefficient, suicide rate.
 
-Federico: solar radiation, urban rural, gdp per capita. Methodology
-
+Federico: solar radiation, urban rural, gdp per capita.
