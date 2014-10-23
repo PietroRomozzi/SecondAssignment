@@ -103,7 +103,10 @@ certain country.
 Since the focus of this paper is on intra-regional differences in Italy, data from the Italian National Institute of Statistics
 (ISTAT) will be used. Data regarding our five specific case studies are provided. 
 
-Variable solar radiation:::::::::
+Variable solar radiation measures the level of solar irradiance in megajoul (MJ) per square meter. The Italian Air Force offers 
+a metereological service, which is responsible for the measurement of solar irradiance on the Italian territory. They also
+provide documentation gathered from various metereological units, unfortunately not for every single Italian region. (If measurement
+per region gets too complicated, we may decide to drop this variable).
 
 Variable Urban population measures of the degree of urbanization of a population. It describes the percentage of the total 
 population living in urban areas, as defined by the country. Also in this case, data provided by Istat will be used.
