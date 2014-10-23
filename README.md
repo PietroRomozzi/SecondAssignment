@@ -5,11 +5,15 @@ Repository created to carry out the second assignment.
 Authors: Pietro Romozzi & Federico Colombo-Ercole
 Year: 2014
 
-Update 24.10.2014:
+================
 
 Suicide rate per region = a + average temperature + b2 number solar radiation + urban/rural population + precipitations + gini coefficient + GDP per capita + err 
 
 Regions considered: Nordovest, nordest, centro, sud, isole.
+
+================
+
+Update, 24.10.2014
 
 We were both agree about working on health and interested in using Italy as a case study.
 
