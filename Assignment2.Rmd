@@ -5,7 +5,6 @@ date: "23 October 2014"
 output:
   pdf_document:
     fig_caption: yes
-    number_sections: no
   html_document:
     fig_caption: yes
     number_sections: no
@@ -16,7 +15,7 @@ bibliography:
 
 ```{r include=FALSE}
 # Set working directory.
-setwd("~/Desktop/SecondAssignment-master/")
+setwd("~/Desktop/Hertie/1st Semester/Collaborative Social Science Data Analysis/SecondAssignment/")
 
 # Load packages and create BibTeX file
 RPackages <- c("ggplot2", "repmis")
