@@ -16,7 +16,7 @@ bibliography:
 
 ```{r include=FALSE}
 # Set working directory.
-setwd("/Users/Peter/Desktop/Hertie/1st Semester//Collaborative Social Science Data Analysis//SecondAssignment")
+setwd("~/Desktop/SecondAssignment-master/")
 
 # Load packages and create BibTeX file
 RPackages <- c("ggplot2", "repmis")
@@ -72,8 +72,8 @@ the natural and social environment on which people depend for their wellbeing.
 ### Relevance
 
 According to the latest WHO report concerning suicide prevention [see the latest report by @PreventingSuicideWHO], "Globally, 
-among young adults 15−29 years of age suicide accounts for 8.5% of all deaths and is ranked as the second leading cause of 
-death (after traffic accidents). Among adults aged 30−49 years it accounts for 4.1% of all deaths and is ranked the fifth leading 
+among young adults 15-29 years of age suicide accounts for 8.5% of all deaths and is ranked as the second leading cause of 
+death (after traffic accidents). Among adults aged 30-49 years it accounts for 4.1% of all deaths and is ranked the fifth leading 
 cause of death". This statement displays clearly the relevance of this issue, which is also greater considering that these 
 estimation are often underrated because of the difficulties in recognizing sucide as a cause of death - will of committing 
 suicide could be not recognized, families could prefer not to speak about it, and so on [see the note by @NotaIstat2012].
@@ -111,7 +111,11 @@ The paper will focus on the relation between suicidal behaviours (an extreme con
 
 The model we want to estimate will therefore be the following: 
 
-Suicide rate = a + b1 x average temperature + b2 x solar radiation + b3 x urban population + b4 x precipitations + b5 x gini coefficient + b6 x GDP per capita + e
+$$
+SuicideRate = \alpha + \beta_{1}Temp + \beta_{2}SolarRadiation + 
+\beta_{3}UrbanPop + \beta_{4}Precip + \beta_{5}Gini + \beta_{6}GDPperCap 
++ e
+$$
 
 "Gini coefficient" and "GDP per capita" are our control variables. 
 
@@ -164,3 +168,4 @@ to deal with these issues at a local and so more manageable level, as stated bef
 
 
 ## References:
+
